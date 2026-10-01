@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# MHIST dataset - do not upload
+MHIST-Research/data/raw/images/
+MHIST-Research/data/raw/images.zip
