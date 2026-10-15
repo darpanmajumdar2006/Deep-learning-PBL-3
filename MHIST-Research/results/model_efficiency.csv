@@ -1,0 +1,4 @@
+Model,Total Parameters (M),Trainable Parameters (M),Weight Size (MB)
+ResNet18,11.178,11.178,42.64
+EfficientNet-B0,4.01,4.01,15.3
+MobileNetV3-Small,1.52,1.52,5.8

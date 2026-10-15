@@ -1,0 +1,4 @@
+Model,Inference Time (ms/image)
+ResNet18,43.91
+EfficientNet-B0,44.33
+MobileNetV3-Small,19.37
