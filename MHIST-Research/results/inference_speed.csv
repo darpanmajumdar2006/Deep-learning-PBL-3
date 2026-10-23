@@ -1,5 +1,5 @@
 Model,Inference Time (ms/image)
-ResNet18,6.04
-EfficientNet-B0,10.84
-MobileNetV3-Small,8.63
-ShuffleNetV2 x0.5,8.01
+ResNet18,7.95
+EfficientNet-B0,10.47
+MobileNetV3-Small,6.8
+ShuffleNetV2 x0.5,7.81
