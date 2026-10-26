@@ -46,6 +46,7 @@ pip install -r requirements.txt
 ## Results
 
 Generated tables are stored in `MHIST-Research/results/tables/`, and plots are stored in `MHIST-Research/results/figures/`.
+Per-image test predictions for all four models are saved in [`test_set_predictions.csv`](MHIST-Research/results/predictions/test_set_predictions.csv).
 
 The Grad-CAM notebook includes one test image from each true class and visualizes each of the four trained models. The resulting overlays are saved here:
 
