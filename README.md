@@ -42,3 +42,16 @@ Install the initial dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Results
+
+Generated tables are stored in `MHIST-Research/results/tables/`, and plots are stored in `MHIST-Research/results/figures/`.
+
+The Grad-CAM notebook includes one test image from each true class and visualizes each of the four trained models. The resulting overlays are saved here:
+
+| Model | HP sample | SSA sample |
+|---|---|---|
+| ResNet18 | [Grad-CAM](MHIST-Research/results/figures/gradcam_resnet18_hp.png) | [Grad-CAM](MHIST-Research/results/figures/gradcam_resnet18_ssa.png) |
+| EfficientNet-B0 | [Grad-CAM](MHIST-Research/results/figures/gradcam_efficientnet_b0_hp.png) | [Grad-CAM](MHIST-Research/results/figures/gradcam_efficientnet_b0_ssa.png) |
+| MobileNetV3-Small | [Grad-CAM](MHIST-Research/results/figures/gradcam_mobilenetv3_small_hp.png) | [Grad-CAM](MHIST-Research/results/figures/gradcam_mobilenetv3_small_ssa.png) |
+| ShuffleNetV2-x0.5 | [Grad-CAM](MHIST-Research/results/figures/gradcam_shufflenetv2_x0_5_hp.png) | [Grad-CAM](MHIST-Research/results/figures/gradcam_shufflenetv2_x0_5_ssa.png) |
