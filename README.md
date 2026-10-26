@@ -18,15 +18,6 @@ MHIST-Research/
 │   ├── 05_robustness.ipynb
 │   ├── 06_gradcam.ipynb
 │   └── 07_agreement_analysis.ipynb
-├── src/
-│   ├── dataset.py
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── evaluate.py
-│   ├── robustness.py
-│   ├── gradcam.py
-│   ├── metrics.py
-│   └── exploration.py
 ├── models/
 │   ├── checkpoints/
 │   └── configs/
